@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Zamora0427
-- 👀 I’m interested in Learning Coding and eventually getting into Software Development.
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
-- 💞️ I’m looking to collaborate and getting feedback on future projects for my Web Profolio.
+- 👋 Hi, I’m Jose Zamora
+- 👀 I’m interested in Email Development, Web Developement and Shopify Freelancing.
+- 🌱 I’m currently learning HTML, CSS, Liquid, Shopify Themes, JavaScript and React with Freemote Bootcamp!
 
 <!---
 Zamora0427/Zamora0427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
