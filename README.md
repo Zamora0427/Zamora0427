@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Zamora
-- 👀 I’m interested in Email Development, Web Developement and Shopify Freelancing.
+- 👀 I’m interested in Email Development, Web Developement and Shopify Development.
 - 🌱 I’m currently learning and practicing VSCode, HTML5, CSS3, JavaScript, React, Git, Shopify and Liquid with Freemote Bootcamp!
 
     Languages and Tools:
