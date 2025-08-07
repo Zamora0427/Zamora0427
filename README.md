@@ -1,4 +1,4 @@
-👋 Hi, I'm Jose Zamora
+👋 Hi, I'm Anthony Zamora
 I'm a frontend developer focused on building fast, responsive, and real-world web applications using modern tools and technologies.
 
 🎯 My Goal
